@@ -1,0 +1,1 @@
+export const FETCH_OHLC_DATA = "FETCH_OHLC_DATA";
